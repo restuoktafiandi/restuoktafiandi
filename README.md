@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Restu GitHub stats](https://github-readme-stats.vercel.app/api?username=RestuOktafiandi&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RestuOktafiandi&layout=compact)](https://github.com/restuoktafiandi/github-readme-stats)
 
