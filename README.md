@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<b>My Name is Restu Oktafiandi</b>
+<p>🌱 I’m currently learning Web Developer</p>
+
 <!--
 **restuoktafiandi/restuoktafiandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 ![Restu GitHub stats](https://github-readme-stats.vercel.app/api?username=RestuOktafiandi&theme=dark&show_icons=true)
 
