@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h3>Languages and Tools:</h3>
+<div>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+</div>
 
 ![Restu GitHub stats](https://github-readme-stats.vercel.app/api?username=RestuOktafiandi&theme=dark&show_icons=true)
-
