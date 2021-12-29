@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<b>My Name is Restu Oktafiandi</b>
+<h3>My Name is Restu Oktafiandi<h3>
 <p>🌱 I’m currently learning Web Developer</p>
 
 <!--
