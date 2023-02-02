@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Restu Oktafiandi
 - 👀 I’m interested in Front End Developer
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me <a href="restuoktafiandi@gmail.com">restuoktafiandi@gmail.com</a>
 
 <!-- - 💞️ I’m looking to collaborate on ... -->
