@@ -2,7 +2,7 @@
 <h1>RESTU OKTAFIANDI</h1>
 
 - 👋 Hi, I’m Restu Oktafiandi
-- 👀 I’m interested in Front End Developer
+- 👀 I’m interested in Web Developer
 - 🌱 I’m currently learning project Front End Developer
 - 📫 How to reach me <a href="restuoktafiandi1@gmail.com">restuoktafiandi1@gmail.com</a>
 
