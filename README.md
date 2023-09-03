@@ -23,4 +23,4 @@ I'm always open to collaborating and learning from fellow developers. Don't hesi
 
 <h4>🛠 Languages and Tools</h4>
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,tailwind,nodejs,express,postman,mysql,postgres,git,github,vscode)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,tailwind,nodejs,git,github,vscode)](https://skills.thijs.gg)
