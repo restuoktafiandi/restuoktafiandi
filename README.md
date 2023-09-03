@@ -1,18 +1,25 @@
 <img src="BANNER.png">
 <h1>RESTU OKTAFIANDI</h1>
 
-- 👋 Hi, I’m Restu Oktafiandi
-- 👀 I’m interested in Web Developer
-- 🌱 I’m currently learn NodeJS
-- 📫 How to reach me <a href="restuoktafiandi1@gmail.com">restuoktafiandi1@gmail.com</a>
+<h3>👋 Hi, I'm Restu Oktafiandi</h3>
+<h4>🌍 Web Developer | 📚 Lifelong Learner</h4>
+<h4>👨‍💻 About Me</h4>
+I am a student interested in the world of software development. I followed the journey of becoming a software engineer and pursuing skills to become a web developer. I'm currently exploring things like Node.js, Express.js to build innovative web applications. Always eager to solve problems and collaborate on fun projects.
+<br><br>
+<h4>🛠 Skills</h4>
+- 💻 Programming Languages: JavaScript<br>
+- 🌐 Web Development: HTML, CSS, JavaScript, Node.js, Express.js<br>
+- 🗃 Databases: MySQL, PostgreSQL<br>
+- 🚀 Version Control: Git, GitHub<br>
+- 🌱 I'm Currently Learning<br>
+    <ul>I'm currently diving deeper into Backend development, enhancing my skills in Node.js, and exploring best practices in Backend Web Development.<br> 
+    </ul>
+    
+<h4>🤝 Let's Connect</h4>
+I'm always open to collaborating and learning from fellow developers. Don't hesitate to contact me.<br>
+📧 You can reach <a href="restuoktafiandi1@gmail.com">restuoktafiandi1@gmail.com</a>
 
-<h2>🛠 Languages and Tools</h2>
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" style="height: 20px">
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+<h4>🛠 Languages and Tools</h4>
+
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,tailwind,nodejs,express,postman,mysql,postgres,git,github,vscode)](https://skills.thijs.gg)
