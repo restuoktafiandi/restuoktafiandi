@@ -1,4 +1,4 @@
-<img src="BANNER.png">
+<img src="Banner.jpg">
 
 <h1 align="center">Hi, I'm Restu 👋</h1>
 <h3 align="center">Backend-Focused Developer | Comfortable with React.js</h3>
